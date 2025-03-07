@@ -1,0 +1,5 @@
+streamlit
+rasterio
+numpy
+matplotlib
+opencv-python-headless
